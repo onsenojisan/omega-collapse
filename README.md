@@ -1,5 +1,5 @@
 Entry point (overview):
-https://medium.com/@onsenojisan
+https://medium.com/p/5b16b403a7ae
 
 Reproducibility (Zenodo):
 https://zenodo.org/records/19159664
