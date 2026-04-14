@@ -1,3 +1,9 @@
+Entry point (overview):
+https://medium.com/@onsenojisan
+
+Reproducibility (Zenodo):
+https://zenodo.org/records/19159664
+
 # omega-collapse
 
 Collapse is not about level — but structure.  
