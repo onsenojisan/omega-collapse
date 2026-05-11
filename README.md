@@ -1,11 +1,16 @@
-This is a legacy overview page. Start here:
+# The Pleasure Order
+
+Canonical overview:
+https://zenodo.org/records/18296691
+
+Reference guide:
+https://zenodo.org/records/20107274
+
+Reproducibility package:
 https://zenodo.org/records/19159664
 
-Entry point (overview):
-https://medium.com/p/5b16b403a7ae
-
-Reproducibility (Zenodo):
-https://zenodo.org/records/19159664
+Start here (30 sec):
+https://colab.research.google.com/drive/1FGu7_G1avub-0PUV6cpdox8cojuOvY9C
 
 # omega-collapse
 
