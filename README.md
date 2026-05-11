@@ -1,4 +1,4 @@
-# The Pleasure Order
+# The Pleasure Order — Canonical Overview and Reproducibility Hub
 
 Canonical overview:
 https://zenodo.org/records/18296691
