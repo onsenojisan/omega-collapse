@@ -1,5 +1,10 @@
 # The Pleasure Order — Canonical Overview and Reproducibility Hub
 
+Execution hub:
+https://onsenojisan.github.io/omega-library/
+
+Use the Ω Library hub to start with runnable notebooks, reproducibility materials, and CSV testing.
+
 Canonical overview:
 https://zenodo.org/records/18296691
 
